@@ -1,3 +1,8 @@
 version https://git-lfs.github.com/spec/v1
+<<<<<<< HEAD
 oid sha256:0fb27d30f1deaca7a560c4942234ae3c944366617e4fd41d6424023fdcb6e51a
 size 82695
+=======
+oid sha256:2cbd4bce8a8c2c8cfab081d86809c81b33c8970285673de761c8c20d76628e5c
+size 78620
+>>>>>>> e7f0aee (adding ramp)
