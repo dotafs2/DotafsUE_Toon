@@ -72,9 +72,9 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-<<<<<<< HEAD
 
 # My custom
-=======
->>>>>>> 0ccdd1c (Initial commit)
 .tmp.driveupload/*
+# My custom
+Content/Models/*
+
